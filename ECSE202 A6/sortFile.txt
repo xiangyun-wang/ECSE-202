@@ -1,0 +1,114 @@
+Assignment 6 - File Sorting Program
+Enter name of file to sort: Names.txt
+
+
+File in sort order: 
+
+Allbright Renita
+Arner Kortney
+Aylor Francene
+Benes Dorethea
+Boyette Dara
+Britto Teisha
+Butcher Cristobal
+Cassady Shantelle
+Cranford Tasia
+Daggett Yuonne
+Denning Caleb
+Duff Suzanna
+Ennals Billy
+Follett Edward
+Foor Loree
+Freeze Clarisa
+Galentine Dante
+Greenlee Marvella
+Gutierez Sarita
+Hamel Eleanora
+Harbison Kamala
+Jenkinson Lavinia
+Kohls Kerstin
+Lally Lucia
+Lamarr Vanda
+Lanoue Kristyn
+Leasure Filomena
+Mackay Sammie
+Mango Barton
+Manzi Dewey
+Marsch Kori
+Mclees Alona
+Mushrush Felicita
+Novack Mariann
+Plaisted Dianne
+Poll Matilda
+Pop Anika
+Quaranta Luba
+Roza Tamie
+Saulnier Joleen
+Sia Holley
+Spece Matilde
+Stutes Nia
+Tait Suzi
+Tamplin Adria
+Thibodaux   Hyon
+Wojtowicz Yvette
+Wolford Stasia
+Woll Jay
+Woolery Ciera
+
+
+
+File in reverse sort order: 
+
+Woolery Ciera
+Woll Jay
+Wolford Stasia
+Wojtowicz Yvette
+Thibodaux   Hyon
+Tamplin Adria
+Tait Suzi
+Stutes Nia
+Spece Matilde
+Sia Holley
+Saulnier Joleen
+Roza Tamie
+Quaranta Luba
+Pop Anika
+Poll Matilda
+Plaisted Dianne
+Novack Mariann
+Mushrush Felicita
+Mclees Alona
+Marsch Kori
+Manzi Dewey
+Mango Barton
+Mackay Sammie
+Leasure Filomena
+Lanoue Kristyn
+Lamarr Vanda
+Lally Lucia
+Kohls Kerstin
+Jenkinson Lavinia
+Harbison Kamala
+Hamel Eleanora
+Gutierez Sarita
+Greenlee Marvella
+Galentine Dante
+Freeze Clarisa
+Foor Loree
+Follett Edward
+Ennals Billy
+Duff Suzanna
+Denning Caleb
+Daggett Yuonne
+Cranford Tasia
+Cassady Shantelle
+Butcher Cristobal
+Britto Teisha
+Boyette Dara
+Benes Dorethea
+Aylor Francene
+Arner Kortney
+Allbright Renita
+
+
+Program terminated......

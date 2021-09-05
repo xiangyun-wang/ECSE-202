@@ -1,0 +1,30 @@
+host-248-143:src xiangyunwang$ ./dec2base 255
+The base-2 form of 255 is: 11111111 
+
+host-248-143:src xiangyunwang$ ./dec2base 65535 16
+The base-16 form of 65535 is: FFFF 
+
+host-248-143:src xiangyunwang$ ./dec2base 2147483647
+The base-2 form of 2147483647 is: 1111111111111111111111111111111 
+
+host-248-143:src xiangyunwang$ ./dec2base 33975 5
+The base-5 form of 33975 is: 2041400 
+
+host-248-143:src xiangyunwang$ ./dec2base 760976 9
+The base-9 form of 760976 is: 1378768 
+
+host-248-143:src xiangyunwang$ ./dec2base 67878903 10
+The base-10 form of 67878903 is: 67878903 
+
+host-248-143:src xiangyunwang$ ./dec2base 86 33
+The base-33 form of 86 is: 2K 
+
+host-248-143:src xiangyunwang$ ./dec2base 100100100 3
+The base-3 form of 100100100 is: 20222100121112010 
+
+host-248-143:src xiangyunwang$ ./dec2base 2147483647 35
+The base-35 form of 2147483647 is: 15V22UM 
+
+host-248-143:src xiangyunwang$ ./dec2base 17 8
+The base-8 form of 17 is: 21 
+

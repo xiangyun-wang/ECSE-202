@@ -1,0 +1,10 @@
+Enter String: 34/5+16*2
+Postfix: 34 5 / 16 2 * +
+Enter String: 5+9.27/1.4*3+2/3
+Postfix: 5 9.27 1.4 / 3 * + 2 3 / + 
+Enter String: 1.1-2.2*3.4/5.6
+Postfix: 1.1 2.2 3.4 * 5.6 / - 
+Enter String: 6/7+3/4+1/2
+Postfix: 6 7 / 3 4 / + 1 2 / + 
+Enter String: 9.8+3*6.7/2-4
+Postfix: 9.8 3 6.7 * 2 / + 4 - 

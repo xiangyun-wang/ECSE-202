@@ -1,0 +1,33 @@
+Enter expression (blank line to exit): a+c*y-d*x
+Eval1:<c*y>
+Eval2:<a+Eval1>
+Eval3:<d*x>
+Eval4:<Eval2-Eval3>
+
+Enter expression (blank line to exit): 34/5+16*2
+Eval1:<34/5>
+Eval2:<16*2>
+Eval3:<Eval1+Eval2>
+
+Enter expression (blank line to exit): 5+9.27/1.4*3+2/3
+Eval1:<9.27/1.4>
+Eval2:<Eval1*3>
+Eval3:<5+Eval2>
+Eval4:<2/3>
+Eval5:<Eval3+Eval4>
+
+Enter expression (blank line to exit): 6/7+3/4+1/2
+Eval1:<6/7>
+Eval2:<3/4>
+Eval3:<Eval1+Eval2>
+Eval4:<1/2>
+Eval5:<Eval3+Eval4>
+
+Enter expression (blank line to exit): 9.8+3*6.7/2-4
+Eval1:<3*6.7>
+Eval2:<Eval1/2>
+Eval3:<9.8+Eval2>
+Eval4:<Eval3-4>
+
+Enter expression (blank line to exit): 
+Blank line detected...Program terminated...
